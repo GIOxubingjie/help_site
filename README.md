@@ -6,7 +6,7 @@
 ### 第一步：与工程师一起接入SDK
 
 1. [JS SDK 配置  ](https://docs.growingio.com/sdk-integration/sdk-2.x-docs/web-js-sdk-2.x/web-js-sdk-2.1-pagecode.html)
-2. [Android SDK 配置](https://docs.growingio.com/sdk-integration/sdk-2.x-docs/android-sdk-2.x/android-sdk-2.3.1.html/)
+2. [Android SDK 配置](https://docs.growingio.com/sdk-integration/sdk-2.x-docs/android-sdk-2.x/android-sdk-2.3.1.html)
 3. [iOS SDK 配置](https://docs.growingio.com/sdk-integration/sdk-2.x-docs/ios-sdk-2.x/ios-sdk-2.3.1.html)
 
 ### 第二步：在工程师的协助下，进行重要配置
